@@ -14,7 +14,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
-chrome_driver_path = 'files/chromedriver'
+chrome_driver_path = 'chromedriver'
 
 
 class Copart:
