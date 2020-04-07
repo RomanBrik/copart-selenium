@@ -1,5 +1,7 @@
 # Selenium based parser of 'copart.com' website
-
+## Requirements
+1. Selenium
+2. Lxml
 ## Usage: 
 ```
 usage: main.py [-h] [-u URL] [-q QUERY] [-f FILTERS] [--photos] [--seller]
