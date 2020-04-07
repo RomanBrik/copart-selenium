@@ -1,4 +1,5 @@
 # Selenium based parser of 'copart.com' website
+Put the Chrome driver into root
 ## Requirements
 1. Selenium
 2. Lxml
